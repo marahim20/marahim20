@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Minhaj Abdul Rahim</h1>
 <h3 align="center">A passionate computer science student from India</h3>
 
-- 🏫 I’m currently studying [B.Tech CSE(Data Science) at](https://www.mace.ac.in/)
+- 🏫 I’m currently studying [B.Tech CSE(Data Science)](https://www.mace.ac.in/)
 
 - 🌱 I’m currently learning **React and NextJS**
 
