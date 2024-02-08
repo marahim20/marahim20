@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋 I'm Minhaj Abdul Rahim</h1>
-<h3 align="center">A passionate computer science student from India</h3>
 
 - 🏫 I’m currently studying [B.Tech CSE(Data Science)](https://www.mace.ac.in/)
 
 - 🌱 I’m currently learning **React and NextJS**
 
-- 🌐 My areas of interest are **Web Development, Machine Learning**
+- 🌐 My areas of interest are **Web Development and Artificial Intelligence**
 
 - 📫 How to reach me **minhajabdulrahim@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lqMsUxZb6IcrBt9iGL9JVPygQLemMQp9/view?usp=drive_link)
-
-- ⚡ Fun fact **I was born in the same month as Matt Damon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
