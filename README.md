@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **minhajabdulrahim@gmail.com**
 
-- 📄 Know about my experiences [CV]([https://drive.google.com/file/d/1bpw1mA5tZWHrDaUW-CgrzlGGblj4Clrl/view?usp=sharing](https://drive.google.com/file/d/1lqMsUxZb6IcrBt9iGL9JVPygQLemMQp9/view?usp=drive_link))
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1lqMsUxZb6IcrBt9iGL9JVPygQLemMQp9/view?usp=drive_link)
 
 - ⚡ Fun fact **I was born in the same month as Matt Damon**
 
