@@ -21,6 +21,6 @@
     <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
-    <img src="https://seeklogo.com/images/F/fastapi-logo-FC9CE0A559-seeklogo.com.png" alt="FastAPI" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="40" height="40"/>
     <img src="https://cdn.iconscout.com/icon/free/png-512/express-8-1175200.png" alt="Express" width="40" height="40"/>
 </p>
